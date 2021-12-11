@@ -157,7 +157,7 @@ form #sub {
     font-family: Adobe Garamond Pro;
     width: 256px;
     height: 149px;
-    background-image: url("/img/icon.svg");
+    background-image: url("../img/icon.svg");
     margin-left: 213px;
 }
 
@@ -360,7 +360,7 @@ footer div {
     width: 80px;
     height: 52px;
     background-color: #14274A;
-    background-image: url("/img/sub-bth.svg");
+    background-image: url("../img/sub-bth.svg");
     border: 0px solid #E0B973;
     color: #14274A;
     outline: none;
