@@ -237,7 +237,7 @@ header {
 
 #card-3 {
     height: 1054px;
-    background-image: url("/img/spa.jpg");
+    background-image: url("../img/spa.jpg");
 }
 
 #card-bg-3 {
