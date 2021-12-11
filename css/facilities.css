@@ -16,7 +16,7 @@ a {
 }
 
 .greeting {
-    background-image: url("/img/facilities_main.jpg");
+    background-image: url("../img/facilities_main.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -32,7 +32,7 @@ a {
     font-family: Adobe Garamond Pro;
     width: 256px;
     height: 149px;
-    background-image: url("/img/icon.svg");
+    background-image: url("../img/icon.svg");
     margin-left: 213px;
 }
 
@@ -135,7 +135,7 @@ header {
 .book {
     width: 268px;
     height: 78px;
-    background-image: url("/img/book_bg.svg");
+    background-image: url("../img/book_bg.svg");
     background-repeat: no-repeat;
     margin: auto;
     margin-top: 108px;
@@ -206,7 +206,7 @@ header {
 
 #card-1 {
     height: 1052px;
-    background-image: url("/img/gym.jpg");
+    background-image: url("../img/gym.jpg");
 }
 
 #card-bg-1 {
@@ -222,7 +222,7 @@ header {
 
 #card-2 {
     height: 972px;
-    background-image: url("/img/poolside.jpg");
+    background-image: url("../img/poolside.jpg");
 }
 
 #card-bg-2 {
@@ -252,7 +252,7 @@ header {
 
 #card-4 {
     height: 888px;
-    background-image: url("/img/swiming-pool.jpg");
+    background-image: url("../img/swiming-pool.jpg");
 }
 
 #card-bg-4 {
@@ -267,7 +267,7 @@ header {
 
 #card-5 {
     height: 1054px;
-    background-image: url("/img/restaurant.jpg");
+    background-image: url("../img/restaurant.jpg");
 }
 
 #card-bg-5 {
@@ -282,7 +282,7 @@ header {
 
 #card-6 {
     height: 1060px;
-    background-image: url("/img/laundry.jpg");
+    background-image: url("../img/laundry.jpg");
 }
 
 #card-bg-6 {
@@ -487,7 +487,7 @@ footer div {
     width: 80px;
     height: 52px;
     background-color: #14274A;
-    background-image: url("/img/sub-bth.svg");
+    background-image: url("../img/sub-bth.svg");
     border: 0px solid #E0B973;
     color: #14274A;
     outline: none;
