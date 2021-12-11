@@ -24,7 +24,7 @@ a {
 }
 
 .greeting {
-    background-image: url("/img/rooms_main.jpg");
+    background-image: url("../img/rooms_main.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -40,7 +40,7 @@ a {
     font-family: Adobe Garamond Pro;
     width: 256px;
     height: 149px;
-    background-image: url("/img/icon.svg");
+    background-image: url("../img/icon.svg");
     margin-left: 213px;
 }
 
@@ -143,7 +143,7 @@ header {
 .book {
     width: 268px;
     height: 78px;
-    background-image: url("/img/book_bg.svg");
+    background-image: url("../img/book_bg.svg");
     background-repeat: no-repeat;
     margin: auto;
     margin-top: 108px;
@@ -285,7 +285,7 @@ header {
 }
 
 #card-1 {
-    background-image: url("/img/single-room.jpg");
+    background-image: url("../img/single-room.jpg");
 }
 
 #card-bg-1 {
@@ -294,7 +294,7 @@ header {
 }
 
 #card-2 {
-    background-image: url("/img/double-room.jpg");
+    background-image: url("../img/double-room.jpg");
 }
 
 #card-bg-2 {
@@ -303,7 +303,7 @@ header {
 
 
 #card-3 {
-    background-image: url("/img/twin-room.jpg");
+    background-image: url("../img/twin-room.jpg");
 }
 
 #card-bg-3 {
@@ -502,7 +502,7 @@ footer div {
     width: 80px;
     height: 52px;
     background-color: #14274A;
-    background-image: url("/img/sub-bth.svg");
+    background-image: url("../img/sub-bth.svg");
     border: 0px solid #E0B973;
     color: #14274A;
     outline: none;
